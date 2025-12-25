@@ -1,6 +1,6 @@
 {
     "opts": {
-        "template": "./docdash-custom",
+        "template": "./reactjs-docdash-theme",
         "destination": "./documentation"
     },
     "tags": {
@@ -10,7 +10,7 @@
         ]
     },
     "plugins": [
-        "react-jsdoc-plugin"
+        "reactjs-custom-tags-plugin"
     ],
     "docdash": {
         "search": true,
